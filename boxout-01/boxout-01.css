@@ -1,0 +1,10 @@
+@media all and (min-device-pixel-ratio: 1.5) {
+  td[class="pillows"] {
+    background: url('http://mochimachine.org/images/pillows-hi-res.jpg') 30px 30px no-repeat;
+    width: 30px !important;
+    height: 30px !important;
+  }
+  td[class="pillows"] img {
+    display: none;
+  }
+}
